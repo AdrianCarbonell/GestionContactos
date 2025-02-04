@@ -82,6 +82,7 @@
             Controls.Add(btnAñadirContacto);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load_1;
             ResumeLayout(false);
         }
 
